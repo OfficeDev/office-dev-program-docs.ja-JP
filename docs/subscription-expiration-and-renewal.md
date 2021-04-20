@@ -3,12 +3,12 @@ title: Microsoft 365 開発者プログラム サブスクリプションの有�
 description: 期限切れの開発者サブスクリプションを更新する方法について説明します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600796"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890197"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 
@@ -32,7 +32,7 @@ Microsoft 365 開発者プログラムのリリースに伴い、期限切れに
 
 <img alt="Screenshot of a text box with the title This subscription has expired and cannot be renewed" src="images/14-expiration-notice-red.png" width="500"> 
 
-代替サブスクリプションを作成するには、**サブスクリプションの設定**を選択します。 
+代替サブスクリプションを作成するには、**サブスクリプションの設定** を選択します。 
 
 また、新しいサブスクリプションに保存する必要がある重要なデータを移行する必要があります。 詳細については、「[データを移行する方法](#migrate-data)」のトピックの後半で説明します。
 
@@ -58,8 +58,8 @@ Microsoft 365 開発者プログラムのリリースに伴い、期限切れに
 
 現在のサブスクリプションから新しいサブスクリプションにデータを移行するには、次のリソースを参照してください。
 
-- [あるテナントから別のテナントにメールボックスを移行する方法](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [PowerShell を使用して段階的な移行を実行する](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [あるテナントから別のテナントにメールボックスを移行する方法](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [PowerShell を使用して段階的な移行を実行する](/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
 - [サード パーティを介さずに別のサブスクリプションに移行する](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>自分のサブスクリプションが削除されたかどうか、どうすれば確認できますか。
