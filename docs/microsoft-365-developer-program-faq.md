@@ -3,12 +3,12 @@ title: Microsoft 365 開発者プログラムの FAQ
 description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: e52eccadf91e9a42534a79cb1ec7f6d48dbede46
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601302"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890190"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Microsoft 365 開発者プログラムの FAQ
 
@@ -33,7 +33,7 @@ Microsoft 365 開発者プログラムは、Microsoft 365 を拡張する、ユ�
 次のいずれかの種類のアカウントを使用して、開発者プログラムにサインアップできます。
 
 - **Microsoft アカウント** (個人用に作成されたもの) - Outlook (Hotmail)、Messenger、OneDrive、MSN、Xbox Live、Microsoft 365 など、すべてのコンシューマー向け Microsoft 製品とクラウド サービスにアクセスできます。 Outlook.com メールボックスにサインアップすると、Microsoft アカウントが自動的に作成されます。 作成された Microsoft アカウントを使用して、コンシューマー関連の Microsoft クラウド サービスまたは Azure にアクセスできます。 
-- **職場のアカウント** (業務用に管理者が発行したもの) - Azure、Microsoft Intune、Microsoft 365 など、小規模、中規模、エンタープライズ企業レベルの Microsoft クラウド サービスにアクセスできます。 組織としてこのいずれかのサービスにサインアップすると、組織を表すクラウド ベースのディレクトリが Azure Active Directory に自動的にプロビジョニングされます。 詳しくは、[Azure AD ディレクトリの管理](https://docs.microsoft.com/azure/active-directory/active-directory-administer)を参照してください。
+- **職場のアカウント** (業務用に管理者が発行したもの) - Azure、Microsoft Intune、Microsoft 365 など、小規模、中規模、エンタープライズ企業レベルの Microsoft クラウド サービスにアクセスできます。 組織としてこのいずれかのサービスにサインアップすると、組織を表すクラウド ベースのディレクトリが Azure Active Directory に自動的にプロビジョニングされます。 詳しくは、[Azure AD ディレクトリの管理](/azure/active-directory/active-directory-administer)を参照してください。
 - **Visual Studio ID** (Visual Studio Professional またはEnterprise サブスクリプションの作成) - このオプションを使用して、Visual Studio サブスクライバーとしての完全なメリットを活用できる Visual Studio ギャラリー内から開発者プログラムに参加することをお勧めします。 
 
 ## <a name="how-can-i-get-a-microsoft-365-developer-subscription-via-the-developer-program"></a>開発者プログラムを通して Microsoft 365 開発者サブスクリプションはどのようにして取得できますか?  
@@ -59,12 +59,13 @@ Office 365 E3 Developer サブスクリプションには、次の項目が含�
 - [Information Protection for Office 365 - Standard](https://products.office.com/ja-JP/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (プラン E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Search](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
+- 
+  [Microsoft Search](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
 - [Office 365 E5 SKU 用 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 のモバイル デバイス管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [Web 用 Office](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Web 用 Office](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online for Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (プラン 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
@@ -121,7 +122,7 @@ Microsoft 365 E5 開発者サブスクリプションには、次の項目が含
 
 持っているサブスクリプションが Microsoft 365 E5 なのか Office 365 E3 なのかは、[ダッシュボード](https://developer.microsoft.com/office/profile)のサブスクリプション タイルで特定できます。 タイルには、サブスクリプション ドメイン名の下に E3 または E5 が表示されます。
 
-![E5 を強調表示したサブスクリプション タイルのスクリーンショット](images/subscription-tile-e5.png)。
+![E5 を強調表示したサブスクリプション タイルのスクリーンショット](images/subscription-tile-e5.png).
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>サブスクリプションには Azure へのサブスクリプションも含まれていますか?
 
@@ -149,7 +150,7 @@ Visual Studio Enterpriseまたは Visual Studio Professional を通じてプロ�
 
 お客様が積極的に開発しているかどうかを判断するために、Microsoft 365 開発者プログラムおよび Office 365 E3 または Microsoft 365 E5 開発者サブスクリプションでのアクティビティから得た一連のアルゴリズムと遠隔測定法を使用しています。 定期的にこれらのチェックがなされ、あなたのステータスを更新し、サブスクリプションを延長するべきかどうかを決定します。 
 
-開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know**リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 
+開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know** リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 
 
 <img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
 
@@ -183,15 +184,15 @@ Microsoft により追跡されるアクティビティの種類の詳細につ�
 
 ## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>Microsoft パートナーはサブスクリプションを受け取ることができますか? 
 
-はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 なお、Visual Studio Enterprise か Visual Studio Enterprise Professional (MSDN) サブスクリプションを既にお持ちの場合は、特典として Microsoft 365 開発者サブスクリプションが与えられます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 
+はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 なお、Visual Studio Enterprise か Visual Studio Enterprise Professional サブスクリプションを既にお持ちの場合は、Microsoft 365 開発者サブスクリプションが特典として提供されます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Microsoftのフルタイム従業員の場合は、サブスクリプションを受け取ることができますか？
 
-Microsoft の従業員はこのオファーにサインアップできません。 Microsoft のすべての社員は、Microsoft 365 E5 開発者向けサブスクリプションへのアクセスを含む無料の Visual Studio (MSDN) サブスクリプションを利用できます。 この特典は [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) から利用できます。
+Microsoft の従業員はこのオファーにサインアップできません。 Microsoft のすべての社員は、Microsoft 365 E5 開発者向けサブスクリプションへのアクセスを含む無料の Visual Studio サブスクリプションを利用できます。 この特典は [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) から利用できます。
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Microsoft の業務を行うベンダーにはサブスクリプションの資格がありますか?
 
-はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 ベンダーでさえ、このサブスクリプションは_アプリケーション開発のためだけに_使用できるよう設計されています。 あなたが有効な開発活動をしていない場合、あなたのサブスクリプションは更新されません。
+はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 ベンダーでさえ、このサブスクリプションは _アプリケーション開発のためだけに_ 使用できるよう設計されています。 あなたが有効な開発活動をしていない場合、あなたのサブスクリプションは更新されません。
 
 ## <a name="is-the-microsoft-365-developer-program-available-in-my-language"></a>私自身の言語で Microsoft 365 開発者プログラムを利用できますか?
 
@@ -210,9 +211,9 @@ Microsoft 365 開発者プログラムに参加する必要がなくなった場
 
 1. Microsoft 365 開発者プログラムにサインインする。
 
-2. **プロファイルの削除**を選択します。
+2. **プロファイルの削除** を選択します。
 
-3. **プロファイルの削除**確認ボックスで、**削除**を選択します。
+3. **プロファイルの削除** 確認ボックスで、**削除** を選択します。
 
 ## <a name="support"></a>サポート
 
