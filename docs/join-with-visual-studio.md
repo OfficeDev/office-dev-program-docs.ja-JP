@@ -1,0 +1,32 @@
+---
+title: Visual Studio Professional または Enterprise サブスクリプションを使用して Microsoft 365 開発者プログラムに参加する
+description: Office 365 開発者プログラムのすべての新しいメンバー (Visual Studio Professional および Enterprise サブスクライバーを含みます) は、Microsoft 365 E5 開発者サブスクリプション (Windows は含まれていません) にサインアップできます。
+localization_priority: Priority
+ms.openlocfilehash: 43750cecdc07fbb382e09bf54b98c2d24031a03d
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890208"
+---
+# <a name="join-the-microsoft-365-developer-program-with-a-visual-studio-professional-or-enterprise-subscription"></a><span data-ttu-id="b7d63-103">Visual Studio Professional または Enterprise サブスクリプションを使用して Microsoft 365 開発者プログラムに参加する</span><span class="sxs-lookup"><span data-stu-id="b7d63-103">Join the Microsoft 365 Developer Program with a Visual Studio Professional or Enterprise subscription</span></span>
+
+<span data-ttu-id="b7d63-104">Office 365 開発者プログラムのすべての新しいメンバー (Visual Studio Professional および Enterprise サブスクライバーを含みます) は、Microsoft 365 E5 開発者サブスクリプション (Windows は含まれていません) にサインアップできます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-104">All new members of the Microsoft 365 Developer Program (including Visual Studio Professional and Enterprise subscribers) can sign up for a Microsoft 365 E5 developer subscription (Windows not included).</span></span> 
+
+<span data-ttu-id="b7d63-105">Visual Studio Professional または Enterprise 標準サブスクリプションを選択すると、サブスクリプションがアクティブな間、Microsoft 365 開発者サブスクリプション特典を利用できます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-105">Select Visual Studio Professional or Enterprise standard subscriptions include access to the Microsoft 365 developer subscription benefit for as long as the subscriptions are active.</span></span> <span data-ttu-id="b7d63-106">有料の Visual Studio Professional または Enterprise サブスクリプションは、無料で更新可能な Microsoft 365 開発者サブスクリプションを最大 25 人までと共有できる権利を付与します。</span><span class="sxs-lookup"><span data-stu-id="b7d63-106">Your paid Visual Studio Professional or Enterprise subscription grants you a free renewable Microsoft 365 developer subscription with up to 25 users.</span></span> <span data-ttu-id="b7d63-107">これは、開発およびテスト目的で企業ドメインの外で独自のサンドボックスを作成する状況で役立ちます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-107">This can be helpful when you want to create your own sandbox outside of your corporate domain for development and testing purposes.</span></span>
+
+<span data-ttu-id="b7d63-108">また、Microsoft 365 開発者プログラムの特殊な状態が付与されます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-108">This also grants you special status in the Microsoft 365 Developer Program.</span></span> <span data-ttu-id="b7d63-109">Visual Studio Professional および Enterprise サブスクリプションがアクティブな間は、サブスクリプションは自動的に更新されます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-109">Your subscription will be renewed automatically for as long as you have a valid Visual Studio Professional or Enterprise subscription.</span></span>
+
+## <a name="how-do-i-get-a-renewable-microsoft-365-developer-subscription"></a><span data-ttu-id="b7d63-110">更新可能な Microsoft 365 開発者サブスクリプションを取得する方法</span><span class="sxs-lookup"><span data-stu-id="b7d63-110">How do I get a renewable Microsoft 365 developer subscription?</span></span>
+
+<span data-ttu-id="b7d63-111">Visual Studio Professional または Enterprise サブスクリプションをお持ちでない場合は、[Visual Studio サブスクリプション](https://visualstudio.microsoft.com/vs/pricing/) ページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="b7d63-111">If you don’t have a Visual Studio Professional or Enterprise subscription and you want one, see the [Visual Studio subscription](https://visualstudio.microsoft.com/vs/pricing/) page.</span></span>
+
+<span data-ttu-id="b7d63-112">Visual Studio Professional または Enterprise サブスクリプションを既にお持ちの場合は、Visual Studio サブスクライバー ポータルから Microsoft 365 開発者サブスクリプションを取得できます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-112">If you already have a Visual Studio Professional or Enterprise subscription, you can get a Microsoft 365 developer subscription from your Visual Studio subscriber portal.</span></span> <span data-ttu-id="b7d63-113">[https://my.visualstudio.com](https://my.visualstudio.com) に移動して、**Microsoft 365 開発者サブスクリプション (E5)** タイルをクリックすると、Visual Studio ID を使用して Microsoft 365 開発者プログラムに自動的に参加します。</span><span class="sxs-lookup"><span data-stu-id="b7d63-113">Go to [https://my.visualstudio.com](https://my.visualstudio.com) and click the **Microsoft 365 Developer subscription (E5)** tile, and you will automatically join the Microsoft 365 developer program with your Visual Studio ID.</span></span>
+
+![Microsoft 365 開発者サブスクリプション タイルが表示されている Visual Studio ページのスクリーン ショット](images/visual-studio-dev-program-tile.jpg)
+
+## <a name="what-is-the-difference-between-joining-the-program-directly-and-joining-with-my-visual-studio-subscription"></a><span data-ttu-id="b7d63-115">直接プログラムに参加する場合と Visual Studio サブスクリプションを使用して参加する場合の違い</span><span class="sxs-lookup"><span data-stu-id="b7d63-115">What is the difference between joining the program directly and joining with my Visual Studio subscription?</span></span>
+
+<span data-ttu-id="b7d63-116">Visual Studio サブスクリプションを使用して Microsoft 365 開発者プログラムに参加すると、Visual Studio サブスクリプションがアクティブな間、Microsoft 365 E5 開発者サンドボックス サブスクリプションは自動的に更新されます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-116">When you join the Microsoft 365 Developer Program with your Visual Studio subscription, your Microsoft 365 E5 developer sandbox subscription will automatically renew for the lifetime of your Visual Studio subscription.</span></span> 
+
+<span data-ttu-id="b7d63-117">開発者プログラムに直接参加すると、Microsoft 365 E5 開発者サンドボックス サブスクリプションは、開発作業に基づいて 90 日ごとに更新されます。</span><span class="sxs-lookup"><span data-stu-id="b7d63-117">If you join the developer program directly, your Microsoft 365 E5 developer sandbox subscription will renew every 90 days based on your development activity.</span></span> <span data-ttu-id="b7d63-118">詳細については、「[サブスクリプションの有効期限と更新](subscription-expiration-and-renewal.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b7d63-118">For details, see [Subscription expiration and renewal](subscription-expiration-and-renewal.md).</span></span>
