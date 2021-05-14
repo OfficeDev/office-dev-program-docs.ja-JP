@@ -3,12 +3,12 @@ title: Microsoft 365 開発者プログラムの FAQ
 description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: cbc15fbfaf5873a21eda6d100b590121fe2328cb
+ms.sourcegitcommit: c70eb4a7cab5b403e602d7ddf8abf3cff5054346
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890190"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52331325"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Microsoft 365 開発者プログラムの FAQ
 
@@ -148,7 +148,7 @@ Visual Studio Enterpriseまたは Visual Studio Professional を通じてプロ�
 
 ## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>サブスクリプションを更新できるかどうかが決定する方法は？
 
-お客様が積極的に開発しているかどうかを判断するために、Microsoft 365 開発者プログラムおよび Office 365 E3 または Microsoft 365 E5 開発者サブスクリプションでのアクティビティから得た一連のアルゴリズムと遠隔測定法を使用しています。 定期的にこれらのチェックがなされ、あなたのステータスを更新し、サブスクリプションを延長するべきかどうかを決定します。 
+お客様が積極的に開発しているかどうかを判断するために、Microsoft 365 開発者プログラムおよび Office 365 E3 または Microsoft 365 E5 開発者サブスクリプションでのアクティビティから得た一連のアルゴリズムと遠隔測定法を使用しています。定期的にこれらのチェックがなされ、お客様のステータスを更新し、サブスクリプションを延長するべきかどうかを決定します。 
 
 開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know** リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 
 
@@ -168,9 +168,11 @@ Microsoft により追跡されるアクティビティの種類の詳細につ�
 
 ## <a name="if-my-subscription-is-going-to-expire-how-much-time-do-i-have-before-it-is-deleted"></a>サブスクリプションの有効期限が切れる場合は、削除までにどの程度の時間的猶予が与えられますか？
 
-サブスクリプションの有効期限終了後、すべてのデータを移行する までに30 日間猶予があります。 有効期限終了後30日間は、管理者だけがサブスクリプションにアクセスでき、60日目にはサブスクリプションとすべてのデータが削除されます。
+サブスクリプションの有効期限終了後、すべてのデータを移行する までに 30 日間の猶予があります。有効期限終了後 30 日間は、管理者だけがサブスクリプションにアクセスでき、60 日目にはサブスクリプションとすべてのデータが削除されます。
 
-<a name="account-types"> </a>
+## <a name="why-should-i-link-my-github-account"></a>GitHub アカウントをリンクする理由
+
+Microsoft 365 開発者プログラムに参加すると、[[個人用設定](https://developer.microsoft.com/microsoft-365/profile/settings/preferences)] ページで、GitHub アカウントを開発者プログラム アカウントにリンクできます。 GitHub アカウントのリンクの設定は、Microsoft 365 開発者サンドボックス サブスクリプションの更新に向けて発生します。 [**個人用設定**] ページの [[リンクされているアカウント](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked)] セクションに移動して、アカウントのリンクを解除することもできます。
 
 ## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Office 365 E3 サブスクリプションから Microsoft 365 E5 サブスクリプションに移行するにはどうすればよいですか?
 
