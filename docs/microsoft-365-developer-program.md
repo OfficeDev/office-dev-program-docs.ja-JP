@@ -2,12 +2,12 @@
 title: Microsoft 365 開発者プログラムへようこそ
 description: Microsoft 365 開発者プログラムに参加して、Microsoft 365 のソリューションをご自分の運用環境で独自に開発します。
 localization_priority: Priority
-ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890159"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206903"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Microsoft 365 開発者プログラムへようこそ
 
@@ -53,6 +53,6 @@ Visual Studio Pro または Enterprise サブスクリプションをお持ち�
 - [Microsoft 365 開発者サブスクリプションを設定する](microsoft-365-developer-program-get-started.md)。 
 - 開発者サブスクリプションを設定した後、[サブスクリプションを使用](build-microsoft-365-solutions.md)して希望するソリューションの種類を設定します。
 - サブスクリプションの期限切れ情報については、[サブスクリプションの有効期限と更新](subscription-expiration-and-renewal.md)を参照してください。
-- Microsoft 365 開発者プログラムに関するよく寄せられる質問は、「[FAQ](microsoft-365-developer-program-faq.md)」をご覧ください。
+- Microsoft 365 開発者プログラムに関するよく寄せられる質問は、「[FAQ](microsoft-365-developer-program-faq.yml)」をご覧ください。
 
 

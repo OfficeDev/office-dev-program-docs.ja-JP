@@ -3,12 +3,12 @@ title: Microsoft 365 開発者サンドボックス サブスクリプション�
 description: 運用環境に依存しないソリューションを構築するための Microsoft 365 開発者サブスクリプションを設定します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890183"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206917"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Microsoft 365 開発者サンドボックス サブスクリプションの設定 
 
@@ -72,7 +72,7 @@ ms.locfileid: "51890183"
 
 サブスクリプションの SharePoint や Exchange などのバックエンドサービスのプロビジョニングには、少々時間がかかります。 この手順では、アプリ起動ツールとホーム ページの中の一部のアイコンは **設定中 (このアプリはまだ設定中)** と表示されています。 1 時間もかからないでしょう。
 
-プロビジョニングを完了すると、開発用の新しい Microsoft 365 サブスクリプションを使用することができます。 サブスクリプションの有効期限は90日間です。 延長するには[サブスクリプションの有効期限が切れる前に延長できますか？](microsoft-365-developer-program-faq.md#renew-subscription)を参照してください。
+プロビジョニングを完了すると、開発用の新しい Microsoft 365 サブスクリプションを使用することができます。 サブスクリプションの有効期限は90日間です。 延長するには[サブスクリプションの有効期限が切れる前に延長できますか？](microsoft-365-developer-program-faq.yml#renew-subscription)を参照してください。
 
 また、リリース オプションを有効にして、できるだけ早く最新の Microsoft 365 の機能にアクセスできるようにすることをお勧めします。 詳細については、「[標準または対象指定リリース オプションを設定する](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47)」を参照してください。
 
@@ -89,4 +89,4 @@ Microsoft 365 開発者プログラム サブスクリプションにサンプ�
 - [Microsoft 365 開発者プログラムに参加する](microsoft-365-developer-program.md)
 - [サブスクリプションを使用して Microsoft 365 ソリューションを構築する](build-microsoft-365-solutions.md)
 - [期限切れのサブスクリプションを更新する](subscription-expiration-and-renewal.md)
-- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.yml)

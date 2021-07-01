@@ -2,12 +2,12 @@
 title: 開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 description: Microsoft 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
 localization_priority: Priority
-ms.openlocfilehash: 2b2e68eb2e9ce474cf6e936c72aedd441e873ff3
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890138"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206896"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 
@@ -87,7 +87,7 @@ Power Apps を使用して構築されたアプリは、豊富なビジネス �
 
 詳細情報:
 
-- [Power Apps](https://docs.microsoft.com/ja-JP/powerapps/)
+- [Power Apps](/powerapps/)
 - [Power Apps のデモ](https://powerapps.microsoft.com/demo/) を見る
 - YouTube の [ Power Appsのビデオ](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) を見る
 
@@ -97,4 +97,4 @@ Power Apps を使用して構築されたアプリは、豊富なビジネス �
 - [Microsoft 365 開発者プログラムに参加する](microsoft-365-developer-program.md)
 - [Microsoft 365 開発者サブスクリプションを設定する](microsoft-365-developer-program-get-started.md) 
 - [期限切れのサブスクリプションを更新する](subscription-expiration-and-renewal.md)
-- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.yml)
