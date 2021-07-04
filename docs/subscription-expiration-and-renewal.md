@@ -3,12 +3,12 @@ title: Microsoft 365 開発者プログラム サブスクリプションの有�
 description: 期限切れの開発者サブスクリプションを更新する方法について説明します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 1235a28e45babf60b7d40cf08bfcd7992184ff40
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: ae0d5f496537baf198504b28c6d9cf8ed6966aaf
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890197"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206910"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 
@@ -50,7 +50,7 @@ Microsoft 365 開発者プログラムのリリースに伴い、期限切れに
 
 ## <a name="why-isnt-my-current-subscription-renewable"></a>現在のサブスクリプションを更新できないのはなぜですか。
 
-2018 年 8 月に更新可能なサブスクリプションを導入しました。 それより前にサブスクリプションにサインアップした場合、サブスクリプションは更新できず、期限が切れると新しいものを設定する必要があります。
+2018 年 8 月に更新可能なサブスクリプションを導入しました。それより前にサブスクリプションにサインアップした場合、サブスクリプションは更新できず、期限が切れると新しいものを設定する必要があります。
 
 <a name="migrate-data"> </a>
 
@@ -73,7 +73,7 @@ Microsoft 365 開発者プログラムのリリースに伴い、期限切れに
 - [Microsoft 365 開発者プログラムに参加する](microsoft-365-developer-program.md)
 - [Microsoft 365 開発者サブスクリプションを設定する](microsoft-365-developer-program-get-started.md)
 - [サブスクリプションを使用して Microsoft 365 ソリューションを構築する](build-microsoft-365-solutions.md)
-- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.md)
+- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.yml)
 
 
 
