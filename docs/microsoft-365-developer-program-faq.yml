@@ -4,12 +4,12 @@ metadata:
   description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 231fc0fa6d6a8ab2fb12e154542a637d829ef6bf
-  ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
+  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "53206927"
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "58408462"
 title: Microsoft 365 開発者プログラムの FAQ
 summary: 以下は、Microsoft 365 開発者プログラムに関するよく寄せられる質問です。
 sections:
@@ -82,14 +82,14 @@ sections:
       <a name="account-types"> </a>
   - question: >
       Office 365 E3 サブスクリプションから Microsoft 365 E5 サブスクリプションに移行するにはどうすればよいですか?
-    answer: "現在、新しい Microsof 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、将来的に Microsoft 365 E5 サブスクリプションに移行する方法が提供されます。 弊社は、すべての Office 365 開発者プログラムのメンバーが Microsoft 365 E5 に移行できるように取り組んでいます。 \n"
+    answer: "現在、新しい Microsof 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、サブスクリプションに移行するオプションMicrosoft 365 E5されます。 \n\nサブスクリプションに移行する場合は、無料Microsoft 365 E5 [Microsoft Mover](https://mover.io/)を使用してデータを移行できます。 以下のリソースも参照してください。\n\n- [あるテナントから別のテナントにMicrosoft 365移行する方法](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [PowerShell を使用して、サーバーへのステージ移行を実行Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Microsoft 365 にコンテンツを移行する](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       GitHub アカウントをリンクする理由
     answer: >
       Microsoft 365 開発者プログラムに参加すると、[[個人用設定](https://developer.microsoft.com/microsoft-365/profile/settings/preferences)] ページで、GitHub アカウントを開発者プログラム アカウントにリンクできます。 GitHub アカウントのリンクの設定は、Microsoft 365 開発者サンドボックス サブスクリプションの更新に向けて発生します。 [**個人用設定**] ページの [[リンクされているアカウント](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked)] セクションに移動して、アカウントのリンクを解除することもできます。
   - question: >
       Office 365 E3 と Microsoft 365 E5 サブスクリプションのどちらを使用するかを選択できますか?
-    answer: "現在、新しい開発者プログラムのメンバーには、Microsoft 365 E5 サブスクリプションが提供されています。 Office 365 E3 サブスクリプションを持っている既存のメンバーは、Microsoft 365 E5 で提供されている新しい機能を必要としない場合、現在のサブスクリプションを保持し、更新を続けることができます。 開発者プログラムのメンバーは、1 つのサブスクリプションのみを持つことができます。  \n\n既存の開発者プログラムのメンバー向けの移行オプションが準備できましたら、移行方法の詳細をご案内します。 \n"
+    answer: "現在、開発者プログラムの新しいメンバーは、1 つのサブスクリプションMicrosoft 365 E5されます。 Office 365 E3 サブスクリプションを持つ既存のメンバーには、Microsoft 365 E5 で提供される新しい機能が必要ない場合、または Microsoft 365 E5 サブスクリプションへの 1 回のアップグレードを行う場合は、現在のサブスクリプションを保持し、更新を続けるオプションがあります。 開発者プログラムのメンバーは、サブスクリプションを 1 つしか持てない。  \n"
   - question: "Microsoft パートナーはサブスクリプションを受け取ることができますか? \n"
     answer: "はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 なお、Visual Studio Enterprise か Visual Studio Enterprise Professional サブスクリプションを既にお持ちの場合は、Microsoft 365 開発者サブスクリプションが特典として提供されます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 \n"
   - question: >
