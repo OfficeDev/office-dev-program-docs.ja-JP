@@ -4,12 +4,12 @@ metadata:
   description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
-  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
+  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
+  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/20/2021
-  ms.locfileid: "58408462"
+  ms.lasthandoff: 08/27/2021
+  ms.locfileid: "58683136"
 title: Microsoft 365 開発者プログラムの FAQ
 summary: 以下は、Microsoft 365 開発者プログラムに関するよく寄せられる質問です。
 sections:
@@ -101,13 +101,12 @@ sections:
     answer: >
       はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 ベンダーでさえ、このサブスクリプションは _アプリケーション開発のためだけに_ 使用できるよう設計されています。 あなたが有効な開発活動をしていない場合、あなたのサブスクリプションは更新されません。
   - question: >
-      私自身の言語で Microsoft 365 開発者プログラムを利用できますか?
-    answer: >
-      Microsoft 365 開発者プログラムは、英語に加えて、中国語 (簡体字)、フランス語、ドイツ語、日本語、ポルトガル語 (ブラジル)、ロシア語、スペイン語でご利用いただけます。
-  - question: >
       私自身の言語で Microsoft 365 開発者サブスクリプションを利用できますか?
     answer: >
       Microsoft 365 開発者サブスクリプションは英語のみの提供になります。
+
+
+      開発者プログラムの Web サイトは、中国語 (簡体字)、フランス語、ドイツ語、日本語、ポルトガル語 (ブラジル)、ロシア語、スペイン語で利用できます。
   - question: >
       Microsoft 365 開発者プログラムを退会するにはどうすればいいですか?
     answer: >
