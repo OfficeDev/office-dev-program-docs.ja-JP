@@ -2,13 +2,13 @@
 title: Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 description: 期限切れの開発者サブスクリプションを更新する方法について説明します。
 ms.date: 04/01/2019
-localization_priority: Priority
-ms.openlocfilehash: ae0d5f496537baf198504b28c6d9cf8ed6966aaf
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206910"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396715"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 

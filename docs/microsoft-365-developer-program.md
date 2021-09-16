@@ -1,13 +1,13 @@
 ---
 title: Microsoft 365 開発者プログラムへようこそ
 description: Microsoft 365 開発者プログラムに参加して、Microsoft 365 のソリューションをご自分の運用環境で独自に開発します。
-localization_priority: Priority
-ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206903"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396694"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Microsoft 365 開発者プログラムへようこそ
 
@@ -17,7 +17,7 @@ Visual Studio Pro または Enterprise サブスクリプションをお持ち�
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Microsoft 365 開発者プログラムに参加する
 
-1. [[Microsoft 365 開発者プログラムに参加する]](https://developer.microsoft.com/ja-JP/microsoft-365/dev-program) ページに移動します。 
+1. [[Microsoft 365 開発者プログラムに参加する]](https://developer.microsoft.com/en-us/microsoft-365/dev-program) ページに移動します。 
 
 2. 右上隅にある **サインイン** を選択し、Microsoft アカウント、または Azure Active Directory が有効化されたメール アドレスでサインインします。
 

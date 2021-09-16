@@ -3,13 +3,13 @@ metadata:
   title: Microsoft 365 開発者プログラムの FAQ
   description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
   ms.date: 04/01/2019
-  localization_priority: Priority
-  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
-  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
+  ms.localizationpriority: high
+  ms.openlocfilehash: ca503a50bd32678583899ecf23aa8b15c4735322
+  ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "58683136"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "59396701"
 title: Microsoft 365 開発者プログラムの FAQ
 summary: 以下は、Microsoft 365 開発者プログラムに関するよく寄せられる質問です。
 sections:
@@ -90,6 +90,10 @@ sections:
   - question: >
       Office 365 E3 と Microsoft 365 E5 サブスクリプションのどちらを使用するかを選択できますか?
     answer: "現在、開発者プログラムの新しいメンバーは、1 つのサブスクリプションMicrosoft 365 E5されます。 Office 365 E3 サブスクリプションを持つ既存のメンバーには、Microsoft 365 E5 で提供される新しい機能が必要ない場合、または Microsoft 365 E5 サブスクリプションへの 1 回のアップグレードを行う場合は、現在のサブスクリプションを保持し、更新を続けるオプションがあります。 開発者プログラムのメンバーは、サブスクリプションを 1 つしか持てない。  \n"
+  - question: >
+      開発者サブスクリプションMicrosoft 365 Microsoft Cloud (EUDB) の EU データ境界の対象ですか?
+    answer: >
+      いいえ。 開発者サブスクリプションMicrosoft 365は、EUDB のコミットメントではなく、利用規約[](terms-and-conditions.md)の対象となります。 ただし、プロビジョニング プロセスの一環として、サブスクリプションの国/地域を選択できます。
   - question: "Microsoft パートナーはサブスクリプションを受け取ることができますか? \n"
     answer: "はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 なお、Visual Studio Enterprise か Visual Studio Enterprise Professional サブスクリプションを既にお持ちの場合は、Microsoft 365 開発者サブスクリプションが特典として提供されます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 \n"
   - question: >

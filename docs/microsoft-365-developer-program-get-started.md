@@ -2,13 +2,13 @@
 title: Microsoft 365 開発者サンドボックス サブスクリプションの設定
 description: 運用環境に依存しないソリューションを構築するための Microsoft 365 開発者サブスクリプションを設定します。
 ms.date: 04/01/2019
-localization_priority: Priority
-ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 287b6ac3a8b366e3153571df832e9e6be66138fe
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206917"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396618"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Microsoft 365 開発者サンドボックス サブスクリプションの設定 
 
