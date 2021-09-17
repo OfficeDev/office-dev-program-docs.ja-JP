@@ -1,13 +1,13 @@
 ---
 title: Microsoft 365 開発者プログラム サブスクリプションでサンプル データ パックを使用する
 description: サンドボックス環境を迅速に稼働させるために、開発者サブスクリプションにサンプル データ パックをインストールする方法を説明します。
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890154"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396722"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Microsoft 365 開発者プログラム サブスクリプションでサンプル データ パックを使用する
 
@@ -57,7 +57,7 @@ Microsoft 365 開発者プログラム サブスクリプションにサンプ�
 
 ![権限の同意ダイアログ ボックスを示すスクリーンショット](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
-5. すべてのサンプル ユーザーのパスワードを設定します。 すべての架空のユーザーを簡単に管理できるように、1 つの共有パスワードを定義する必要があります。
+5. すべてのサンプル ユーザーのパスワードを設定します。すべての架空のユーザーを簡単に管理できるように、1 つの共有パスワードを定義する必要があります。
 
 ![共有ユーザー パスワードを追加するダイアログ ボックスのスクリーンショット](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
@@ -197,7 +197,7 @@ Contoso で働くテンプレートは複数のサイト コレクションで�
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>サンプル データ パックを他の Microsoft 365 サブスクリプションにインストールできますか?
 
-いいえ。 これらのサンプル データ パックは、Microsoft 365 開発者プログラムの一部として取得した Microsoft 365 開発者サブスクリプションとのみ互換性があります。
+いいえ。これらのサンプル データ パックは、Microsoft 365 開発者プログラムの一部として取得した Microsoft 365 開発者サブスクリプションとのみ互換性があります。
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>サンプル データをサブスクリプションに表示するにはどのようにすればよいですか?
 

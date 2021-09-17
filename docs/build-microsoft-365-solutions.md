@@ -1,13 +1,13 @@
 ---
 title: 開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 description: Microsoft 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
-localization_priority: Priority
-ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206896"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396677"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 
@@ -45,7 +45,7 @@ Microsoft Graph のシナリオを試しにサンドボックスを自動的に�
 
 詳細については、「[サンプル データ パック使用する](install-sample-packs.md)」を参照してください。 
 
-Microsoft Graph の使用を死するその他の方法については、[Microsoft Graph アプリを構築し始める](https://developer.microsoft.com/ja-JP/graph/get-started)、または Microsoft Graph [クイック スタート](https://developer.microsoft.com/ja-JP/graph/quick-start)を参照してください。
+Microsoft Graph の使用を死するその他の方法については、[Microsoft Graph アプリを構築し始める](https://developer.microsoft.com/en-us/graph/get-started)、または Microsoft Graph [クイック スタート](https://developer.microsoft.com/en-us/graph/quick-start)を参照してください。
 
 ## <a name="office-add-ins"></a>Office アドイン
 
@@ -55,10 +55,9 @@ Office アドインのプラットフォームを使用すると、Office アプ
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-SharePoint Framework (SPFx) は、クライアント側の SharePoint の開発、SharePoint データとの容易な統合、オープンソース ツーリングのサポートをすべてサポートするページと Web パーツ モデルです。 SharePoint Framework では、使い慣れた開発環境内で最新の Web テクノロジとツールを使用し、生産性の高いエクスペリエンスや応答性に優れたモバイル向けアプリを構築することができます。
+SharePoint Framework (SPFx) は、クライアント側の SharePoint の開発、SharePoint データとの容易な統合、およびオープンソース ツーリングのサポートをすべてサポートするページと Web パーツ モデルです。SharePoint Framework では、優先開発環境内で最新の Web テクノロジとツールを使用し、利用初日から生産性の高い体験と、すばやい反応でモバイル対応のアプリを構築することができます。SharePoint Framework は、SharePoint のオンプレミスおよび SharePoint のオンライン用に機能します。
 
-さまざまな SharePoint のテンプレートとシナリオを試すようにサンドボックスを自動的に構成するには、SharePoint サンプル データ パックをインストールします。
-詳細については、以下を参照してください。
+さまざまな SharePoint のテンプレートとシナリオを試すようにサンドボックスを自動的に構成するには、SharePoint サンプル データ パックをインストールします。詳細については、以下を参照してください。
 
 - [サンプル データ パックのインストール](install-sample-packs.md)
 - [SPFx 開発者向けサブスクリプションをセットアップします](/sharepoint/dev/spfx/set-up-your-developer-tenant)
