@@ -2,12 +2,12 @@
 title: 開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 description: Microsoft 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
 ms.localizationpriority: high
-ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396677"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725021"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 
@@ -76,7 +76,7 @@ SharePoint アドインをセットアップしてコーディングを開始す
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps は、Microsoft 365 E5 開発者向けサブスクリプション ライセンスに含まれています。 
+Microsoft 365向け Power Apps は、Microsoft 365 E5 開発者向けサブスクリプション ライセンスに含まれています。 [標準コネクタ](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors)を使用して、許可されていないアプリを作成して テストできるということです。 [プレミアム](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) コネクタ またはカスタム コネクタを使用するには、追加のライセンスが必要です。 開発およびテストの目的で、[開発者プランのPower Apps](https://powerapps.microsoft.com/developerplan)を使用できます。 
 
 Power Apps は、アプリケーション、サービス、コネクタ、データ プラットフォームで構成されるスイートで、ビジネス ニーズに合ったカスタム アプリを構築する迅速なアプリケーション開発環境を提供します。 Power アプリを使用すると、基となるデータ プラットフォーム (Common Data Service) またはさまざまなオンライン / オンプレミスのデータ ソース (SharePoint、Microsoft 365、Dynamics 365、SQL Server など) に保存されているビジネス データに接続する、カスタム ビジネス アプリをすばやく構築できます。
 
