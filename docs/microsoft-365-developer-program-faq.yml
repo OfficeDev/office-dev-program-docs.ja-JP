@@ -4,12 +4,12 @@ metadata:
   description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 288754708eb5a589dad6a6304a0f252cf60fe3b2
-  ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+  ms.openlocfilehash: fbc4aae63cb03207a095ca6014d7c92394544eeb
+  ms.sourcegitcommit: 7d83b21fd60e5e6b43b4ebcca5c5a411c8149a7b
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 11/03/2021
-  ms.locfileid: "60725028"
+  ms.lasthandoff: 11/11/2021
+  ms.locfileid: "60907204"
 title: Microsoft 365 開発者プログラムの FAQ
 summary: 以下は、Microsoft 365 開発者プログラムに関するよく寄せられる質問です。
 sections:
@@ -85,11 +85,14 @@ sections:
     answer: "現在、新しい Microsof 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、サブスクリプションに移行するオプションMicrosoft 365 E5されます。 \n\nサブスクリプションに移行する場合は、無料Microsoft 365 E5 [Microsoft Mover](https://mover.io/)を使用してデータを移行できます。 以下のリソースも参照してください。\n\n- [あるテナントから別のテナントにMicrosoft 365移行する方法](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [PowerShell を使用して、サーバーへのステージ移行を実行Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Microsoft 365 にコンテンツを移行する](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       インスタント サンドボックスまたは構成可能なサンドボックスを選択する必要がありますか?
-    answer: "インスタント サンドボックスを選択した場合は、サンドボックス構成時間を日から秒にカットできます。 インスタント Microsoft 365サンドボックスには、Microsoft Teams、SharePoint、Outlook、およびOffice。 また、24 人のテスト ユーザーと 1 人の管理者のライセンス、および pc と Mac 用の最新の Microsoft 365 アプリ (Power Apps、Power BI、Enterprise Mobility + Security、Office 365 Advanced Threat Protection、Azure Active Directory など) も含まれています。\n\nさらに、新しい Teams サンプル データ パックを含む、事前にインストールされたサンプル データを取得し、Microsoft 365 プラットフォーム全体でソリューションを構築するのに役立つ小規模な企業環境をシミュレートします。 詳細については、「Developer Sandbox サンプル データ」を参照してください。\n\n構成可能なサンドボックスを選択すると、空のサンドボックスが作成され、サンプル データを設定する必要があります。 このサンドボックスは、プロビジョニングに最大 2 日かかる場合があります。 開発者プログラム ダッシュボードで使用できるサンプル データ パックをインストールできます。 このオプションを使用して、ドメイン名をカスタマイズできます。 \n"
+    answer: "インスタント サンドボックスを選択した場合、サンドボックスの構成時間を数日から数秒に短縮することができます。 Microsoft 365 インスタント サンドボックスには、Microsoft Teams、SharePoint、Outlook、Office が事前に準備されています。 また、テストユーザー 24 名と管理者 1 名分のライセンスと、Power Apps、Power BI、Enterprise Mobility + Security、Office 365 Advanced Threat Protection、Azure Active Directory など、PC や Mac 用の最新の Microsoft 365 アプリも含まれています。\n\nさらに、新しい Teams サンプル データ パックを含む、事前にインストールされたサンプル データを取得し、Microsoft 365 プラットフォーム全体でソリューションを構築するのに役立つ小規模な企業環境をシミュレートします。 詳細については、「開発者サンドボックスのサンプル データ」 を参照してください。\n\n構成可能なサンドボックスを選択すると、空のサンドボックスが作成され、サンプル データを設定する必要があります。 このサンドボックスのプロビジョニングには最大 2 日かかる場合があります。 開発者プログラム ダッシュボードで使用できるサンプル データ パックをインストールできます。 このオプションを使用して、ドメイン名をカスタマイズできます。 \n"
+  - question: >
+      インスタント サンドボックスでサンプル Teamsを見つける方法
+    answer: >
+      Microsoft Teams のサンプル データを表示するには、Microsoft 365 E5 サブスクリプションの **Teams** に移動します。 Teams タブには、**Mark 8 プロジェクト チーム** のサンプル ユーザーからのチャットを含む作成済みのチームがいくつか表示されます。 App Studio / Dev Portal アプリはプリインストールされており、ナビゲーション ウィンドウに固定されています。
   - question: >
       GitHub アカウントをリンクする理由
-    answer: >
-      Microsoft 365 開発者プログラムに参加すると、[[個人用設定](https://developer.microsoft.com/microsoft-365/profile/settings/preferences)] ページで、GitHub アカウントを開発者プログラム アカウントにリンクできます。 GitHub アカウントのリンクの設定は、Microsoft 365 開発者サンドボックス サブスクリプションの更新に向けて発生します。 [**個人用設定**] ページの [[リンクされているアカウント](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked)] セクションに移動して、アカウントのリンクを解除することもできます。
+    answer: "Microsoft 365 開発者プログラムに参加すると、[[個人用設定](https://developer.microsoft.com/microsoft-365/profile/settings/preferences)] ページで、GitHub アカウントを開発者プログラム アカウントにリンクできます。 GitHub アカウントのリンクの設定は、Microsoft 365 開発者サンドボックス サブスクリプションの更新に向けて発生します。 [**個人用設定**] ページの [[リンクされているアカウント](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked)] セクションに移動して、アカウントのリンクを解除することもできます。\n  \n"
   - question: >
       Office 365 E3 と Microsoft 365 E5 サブスクリプションのどちらを使用するかを選択できますか?
     answer: "現在、開発者プログラムの新しいメンバーは、1 つのサブスクリプションMicrosoft 365 E5されます。 Office 365 E3 サブスクリプションを持つ既存のメンバーには、Microsoft 365 E5 で提供される新しい機能が必要ない場合、または Microsoft 365 E5 サブスクリプションへの 1 回のアップグレードを行う場合は、現在のサブスクリプションを保持し、更新を続けるオプションがあります。 開発者プログラムのメンバーは、サブスクリプションを 1 つしか持てない。  \n"
