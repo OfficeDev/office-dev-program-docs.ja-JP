@@ -3,12 +3,12 @@ title: Microsoft 365 開発者サンドボックス サブスクリプション�
 description: 運用環境に依存しないソリューションを構築するための Microsoft 365 開発者サブスクリプションを設定します。
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793527"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889448"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Microsoft 365 開発者サンドボックス サブスクリプションの設定 
 
@@ -51,6 +51,10 @@ Microsoft 365 開発者サブスクリプションを取得する
     > 開発者サブスクリプションにアクセスするときに必要なので、ユーザー名とパスワードをメモします。
 
 2.  有効な携帯電話番号を入力し、[**コードを送信**] を選択します。 受け取ったコードを入力し、[**設定**] を選択します。
+
+    > [!NOTE] 
+    > Voice over IP (VoIP) ではなく、有効な携帯電話番号を使用する必要があります。
+
 3.  サブスクリプションが作成されると、プロファイル ページにサブスクリプションのドメイン名と有効期限が表示されます。
 
 構成可能なサンドボックスを選択した場合:

@@ -2,18 +2,20 @@
 title: Microsoft 365 開発者プログラム サブスクリプションでサンプル データ パックを使用する
 description: サンドボックス環境を迅速に稼働させるために、開発者サブスクリプションにサンプル データ パックをインストールする方法を説明します。
 ms.localizationpriority: high
-ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793534"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889455"
 ---
 # <a name="developer-sandbox-sample-data"></a>開発者サンドボックスのサンプル データ
 
 Microsoft 365 開発者プログラム サンドボックス サブスクリプションには、ソリューションの構築とテストに必要なデータとコンテンツを提供することで時間を節約するためのサンプル データが付属しています。
 
 ![サンプル データ パック ボタンのスクリーンショット](images/sample-data-packs.PNG)
+
+## <a name="sample-data-installed-on-the-instant-sandbox"></a>インスタント サンドボックスにインストールされたサンプル データ
 
 インスタント サンドボックスをお持ちの場合、サンプル データ パックはすでにプリインストールされています。 インスタント サンドボックスには、次のサンプル データが含まれています。
 
@@ -26,12 +28,12 @@ Microsoft 365 開発者プログラム サンドボックス サブスクリプ�
     ![Teams 開発者ポータルのスクリーンショット](images/teams-developer-portal.PNG)
 - **SharePoint Framework サンプルデータ** – 組織のカスタムソ リューションとしてインストールおよび評価できる 6 つのサイト テンプレートから選択します (1 つはプリインストールされています)。
 
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>サンプル データ パックを構成可能なサンドボックスにインストールする。
+
 構成可能なサンドボックスがある場合は、サンプル データをすばやくインストールできるため、サンプル データを自分で作成することに時間を費やすことなく、ソリューションに集中することができます。
 
 > [!NOTE] 
 > 他の Microsoft 365 サブスクリプションにサンプル データ パックをインストールすることはできません。 これらのサンプル データ パックは、Microsoft 365 開発者プログラムの一部として取得した Microsoft 365 開発者 サンドボックス サブスクリプションとのみ互換性があります。
-
-## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>サンプル データ パックを構成可能なサンドボックスにインストールする。
 
 サンプル データ パックは、サブスクリプション タイルの下部にある [Microsoft 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/microsoft-365/profile)にあります。
 
