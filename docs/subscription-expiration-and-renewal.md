@@ -3,16 +3,16 @@ title: Microsoft 365 開発者プログラム サブスクリプションの有�
 description: 期限切れの開発者サブスクリプションを更新する方法について説明します。
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: ddc03b8c1c7f1284fd557e2f5c11b95dec034825
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396715"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751517"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 
-Microsoft 365 開発者プログラムのメンバーシップには、無料の Office 365 E3 または Microsoft 365 E5 開発者サブスクリプションが含まれています。 開発者サブスクリプションは開発アクティビティに基づいて更新可能です。ただし、一部の古いサブスクリプションは期限切れになります。 この記事では、更新可能なサブスクリプションと更新できないサブスクリプションの違い、および有効期限が切れた場合のサブスクリプションのアップグレード方法について説明します。
+Microsoft 365 開発者プログラムのメンバーシップには、無料の Microsoft 365 E5 開発者サブスクリプションが含まれています。 開発者サブスクリプションは開発アクティビティに基づいて更新可能です。ただし、一部の古いサブスクリプションは期限切れになります。 この記事では、更新可能なサブスクリプションと更新できないサブスクリプションの違い、および有効期限が切れた場合のサブスクリプションのアップグレード方法について説明します。
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>期限切れ vs. 更新可能 開発者サブスクリプション
 
