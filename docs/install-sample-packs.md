@@ -2,12 +2,12 @@
 title: Microsoft 365 開発者プログラム サブスクリプションでサンプル データ パックを使用する
 description: サンドボックス環境を迅速に稼働させるために、開発者サブスクリプションにサンプル データ パックをインストールする方法を説明します。
 ms.localizationpriority: high
-ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
+ms.openlocfilehash: a9d93e75b23e08ad49c960e0d4f1559e33193f5e
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889455"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827298"
 ---
 # <a name="developer-sandbox-sample-data"></a>開発者サンドボックスのサンプル データ
 
@@ -104,7 +104,7 @@ Microsoft 365 開発者プログラム サンドボックス サブスクリプ�
 
 SharePoint サンプル データ パックには 6 種類の SharePoint サイト テンプレートが含まれており、これを選択してコラボレーション、コミュニケーション、エンゲージメント、知識管理用に SharePoint ソリューションを体験しモデル化できます。
 
-これらは[SharePoint PnP look book](https://provisioning.sharepointpnp.com/) の中の最も人気のあるテンプレートです。 今日では、任意のデバイスや画面に美しく表示される、美しく高速なサイトおよびかっこいいページのサンプル ソリューションを簡単に作成できます。 これらのデザインからインスピレーションを得たり、三度ボックス テナントに追加して、次のサイトの構築を始めましょう。
+これらは[SharePoint PnP look book](https://lookbook.microsoft.com) の中の最も人気のあるテンプレートです。 今日では、任意のデバイスや画面に美しく表示される、美しく高速なサイトおよびかっこいいページのサンプル ソリューションを簡単に作成できます。 これらのデザインからインスピレーションを得たり、三度ボックス テナントに追加して、次のサイトの構築を始めましょう。
 
 テンプレートはサブスクリプションにインストールできます。 テンプレートを 1 つインストールすると、その他のテンプレートをインストールするオプションを得ることができます。 インストール プロセスには、以下の手順が含まれます。
 
