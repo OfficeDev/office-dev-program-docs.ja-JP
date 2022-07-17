@@ -2,12 +2,12 @@
 title: 開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 description: Microsoft 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
 ms.localizationpriority: high
-ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725021"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827291"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 
@@ -97,3 +97,4 @@ Power Apps を使用して構築されたアプリは、豊富なビジネス �
 - [Microsoft 365 開発者サブスクリプションを設定する](microsoft-365-developer-program-get-started.md) 
 - [期限切れのサブスクリプションを更新する](subscription-expiration-and-renewal.md)
 - [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.yml)
+- [Microsoft 365 開発者向けドキュメント](/microsoft-365/developer)
