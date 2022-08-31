@@ -4,7 +4,7 @@ description: Microsoft 365 開発者プログラムに参加して、Microsoft 3
 ms.localizationpriority: high
 ms.openlocfilehash: 023815d9c7db62570b93c1af9c1d8eea13bf03ec
 ms.sourcegitcommit: b1185ed54490217e1777b182a1a7535b84a06dc4
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/29/2022
 ms.locfileid: "66241540"
