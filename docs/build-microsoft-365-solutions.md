@@ -2,12 +2,12 @@
 title: 開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 description: Microsoft 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
 ms.localizationpriority: high
-ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
-ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
-ms.translationtype: HT
+ms.openlocfilehash: 2450b0dee53ca7a8bdaf90beea3cb08f9e2dea36
+ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66827291"
+ms.lasthandoff: 10/13/2022
+ms.locfileid: "68570594"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>開発者サブスクリプションを使用して Microsoft 365 ソリューションを構築する
 
@@ -49,15 +49,16 @@ Microsoft Graph の使用を死するその他の方法については、[Micros
 
 ## <a name="office-add-ins"></a>Office アドイン
 
-Office アドインのプラットフォームを使用すると、Office アプリケーションを拡張し、Office ドキュメント内のコンテンツと対話するソリューションを構築できます。Office アドインで、HTML、CSS、および JavaScript などの一般的な Web テクノロジを使用し、Word、Excel、PowerPoint、OneNote、Project、および Outlook を拡張して対話操作することができます。Office for Windows、Office Online、Office for Mac、および Office for iPad を含む複数のプラットフォームにわたって Office ソリューションを実行できます。
+You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
 
 開発環境をセットアップしてアドインを作成し始めるには、[Office アドイン クイック スタート](/office/dev/add-ins/)を参照してください。
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-SharePoint Framework (SPFx) は、クライアント側の SharePoint の開発、SharePoint データとの容易な統合、およびオープンソース ツーリングのサポートをすべてサポートするページと Web パーツ モデルです。SharePoint Framework では、優先開発環境内で最新の Web テクノロジとツールを使用し、利用初日から生産性の高い体験と、すばやい反応でモバイル対応のアプリを構築することができます。SharePoint Framework は、SharePoint のオンプレミスおよび SharePoint のオンライン用に機能します。
+The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready.
 
-さまざまな SharePoint のテンプレートとシナリオを試すようにサンドボックスを自動的に構成するには、SharePoint サンプル データ パックをインストールします。詳細については、以下を参照してください。
+To automatically configure your sandbox to try out different SharePoint templates and scenarios, install the SharePoint sample data pack.
+For more details, see:
 
 - [サンプル データ パックのインストール](install-sample-packs.md)
 - [SPFx 開発者向けサブスクリプションをセットアップします](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -76,7 +77,7 @@ SharePoint アドインをセットアップしてコーディングを開始す
 
 ## <a name="power-apps"></a>Power Apps
 
-Microsoft 365向け Power Apps は、Microsoft 365 E5 開発者向けサブスクリプション ライセンスに含まれています。 [標準コネクタ](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors)を使用して、許可されていないアプリを作成して テストできるということです。 [プレミアム](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) コネクタ またはカスタム コネクタを使用するには、追加のライセンスが必要です。 開発およびテストの目的で、[開発者プランのPower Apps](https://powerapps.microsoft.com/developerplan)を使用できます。 
+Microsoft 365向け Power Apps は、Microsoft 365 E5 開発者向けサブスクリプション ライセンスに含まれています。 [標準コネクタ](/connectors/connector-reference/connector-reference-standard-connectors)を使用して、許可されていないアプリを作成して テストできるということです。 [プレミアム](/connectors/connector-reference/connector-reference-premium-connectors) コネクタ またはカスタム コネクタを使用するには、追加のライセンスが必要です。 開発およびテストの目的で、[開発者プランのPower Apps](https://powerapps.microsoft.com/developerplan)を使用できます。 
 
 Power Apps は、アプリケーション、サービス、コネクタ、データ プラットフォームで構成されるスイートで、ビジネス ニーズに合ったカスタム アプリを構築する迅速なアプリケーション開発環境を提供します。 Power アプリを使用すると、基となるデータ プラットフォーム (Common Data Service) またはさまざまなオンライン / オンプレミスのデータ ソース (SharePoint、Microsoft 365、Dynamics 365、SQL Server など) に保存されているビジネス データに接続する、カスタム ビジネス アプリをすばやく構築できます。
 
