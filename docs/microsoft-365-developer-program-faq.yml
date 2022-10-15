@@ -4,12 +4,12 @@ metadata:
   description: Microsoft 365 開発者プログラムに関するよく寄せられる質問。
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
-  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
+  ms.openlocfilehash: 101afeb133b66641733573bc033ef1762162d839
+  ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 09/14/2022
-  ms.locfileid: "67675513"
+  ms.lasthandoff: 10/13/2022
+  ms.locfileid: "68570601"
 title: Microsoft 365 開発者プログラムの FAQ
 summary: 以下は、Microsoft 365 開発者プログラムに関するよく寄せられる質問です。
 sections:
@@ -70,7 +70,7 @@ sections:
     answer: "2019年4月に、開発に積極的に使用している場合は、90日ごとにサブスクリプションを永久的に更新できる新しいモデルに移行しました。 このモデルにより、積極的にソリューションを開発している開発者が、必要な限りサブスクリプションを持てることを担保できるのではないかと考えたのです。 頻繁に開発している場合は、サブスクリプションの有効期限が切れることがありません。 自動的に延長されます。 短期間の開発でサブスクリプションが期限切れになり削除された場合は、新しいサブスクリプションに申し込むことができます。 \n\nあなたがより長い間利用可能であるサブスクリプションを好むならば、Visual Studio ProfessionalまたはVisual Studio Enterpriseのサブスクリプションをお勧めします。 これらのプログラムには、Visual Studio のサブスクリプションが有効なかぎり有効な、無料の Microsoft 365 開発サブスクリプションが含まれます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 \n"
   - question: >
       サブスクリプションを更新できるかどうかが決定する方法は？
-    answer: "お客様が積極的に開発しているかどうかを判断するために、Microsoft 365 開発者プログラムおよび Office 365 E3 または Microsoft 365 E5 開発者サブスクリプションでのアクティビティから得た一連のアルゴリズムと遠隔測定法を使用しています。定期的にこれらのチェックがなされ、お客様のステータスを更新し、サブスクリプションを延長するべきかどうかを決定します。 \n\n開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know** リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
+    answer: "We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Office 365 E3 or Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. \n\n開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know** リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
   - question: >
       開発アクティビティを定義する方法とは？
     answer: "開発者プログラムおよび開発者サブスクリプションでのアクティビティで、お客様が積極的に開発しており、サブスクリプションを更新すべきかどうかを判断しています。 \n\nMicrosoft により追跡されるアクティビティの種類の詳細については、[利用規約](terms-and-conditions.md)をご覧ください。 \n"
@@ -80,13 +80,13 @@ sections:
   - question: >
       サブスクリプションの有効期限が切れる場合は、削除までにどの程度の時間的猶予が与えられますか？
     answer: >
-      サブスクリプションの有効期限終了後、すべてのデータを移行する までに 30 日間の猶予があります。有効期限終了後 30 日間は、管理者だけがサブスクリプションにアクセスでき、60 日目にはサブスクリプションとすべてのデータが削除されます。
+      You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted.
 
 
       <a name="account-types"> </a>
   - question: >
       Office 365 E3 サブスクリプションから Microsoft 365 E5 サブスクリプションに移行するにはどうすればよいですか?
-    answer: "現在、新しい Microsof 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、Microsoft 365 E5 サブスクリプションに移行するオプションが提供されます。 \n\nMicrosoft 365 E5 サブスクリプションに移行することを選択した場合は、無料のツール [Microsoft Mover](https://mover.io/) を使用してデータを移行できます。 次のリソースも参照してください。\n\n- [1 つの Microsoft 365 テナントから別のテナントにメールボックスを移行する方法](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [PowerShell を使用してOffice 365への段階的な移行を実行する](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Microsoft 365 にコンテンツを移行する](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
+    answer: "現在、新しい Microsof 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、Microsoft 365 E5 サブスクリプションに移行するオプションが提供されます。 \n\nMicrosoft 365 E5 サブスクリプションに移行することを選択した場合は、無料のツール [Microsoft Mover](https://mover.io/) を使用してデータを移行できます。 次のリソースも参照してください。\n\n- [1 つの Microsoft 365 テナントから別のテナントにメールボックスを移行する方法](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [PowerShell を使用してOffice 365への段階的な移行を実行する](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Microsoft 365 にコンテンツを移行する](/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       インスタント サンドボックスまたは構成可能なサンドボックスを選択する必要がありますか?
     answer: "インスタント サンドボックスを選択した場合、サンドボックスの構成時間を数日から数秒に短縮することができます。 Microsoft 365 インスタント サンドボックスには、Microsoft Teams、SharePoint、Outlook、Office が事前に準備されています。 また、テストユーザー 24 名と管理者 1 名分のライセンスと、Power Apps、Power BI、Enterprise Mobility + Security、Office 365 Advanced Threat Protection、Azure Active Directory など、PC や Mac 用の最新の Microsoft 365 アプリも含まれています。\n\nさらに、Microsoft 365 プラットフォーム全体でソリューションを構築するのに役立つ小規模な企業環境をシミュレートする新しい Teams サンプル データ パックを含む、事前にインストールされたサンプル データを取得します。 詳細については、「開発者サンドボックスのサンプル データ」 を参照してください。\n\n構成可能なサンドボックスを選択した場合は、サンプル データを入力する必要がある空のサンドボックスがあります。 このサンドボックスのプロビジョニングには最大 2 日かかる場合があります。 開発者プログラム ダッシュボードで使用できるサンプル データ パックをインストールすることもできます。 このオプションを使用して、ドメイン名をカスタマイズできます。 \n"
@@ -103,7 +103,7 @@ sections:
   - question: >
       Microsoft 365 開発者サブスクリプションは、Microsoft Cloud (EUDB) の EU データ境界の対象ですか?
     answer: >
-      その必要はありません。 無料の Microsoft 365 開発者サブスクリプションは [、EUDB](terms-and-conditions.md) のコミットメントではなく、使用条件の対象となります。 ただし、プロビジョニング プロセスの一環として、サブスクリプションの国/リージョンを選択できます。
+      いいえ。 無料の Microsoft 365 開発者サブスクリプションは [、EUDB](terms-and-conditions.md) のコミットメントではなく、使用条件の対象となります。 ただし、プロビジョニング プロセスの一環として、サブスクリプションの国/リージョンを選択できます。
   - question: "Microsoft パートナーはサブスクリプションを受け取ることができますか? \n"
     answer: "はい。[この手順](microsoft-365-developer-program.md)に従って Microsof 365 開発者プログラムに参加し、Microsoft 365 開発者サブスクリプションを設定できます。 なお、Visual Studio Enterprise か Visual Studio Enterprise Professional サブスクリプションを既にお持ちの場合は、Microsoft 365 開発者サブスクリプションが特典として提供されます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 \n"
   - question: >
@@ -138,7 +138,7 @@ sections:
       3. **プロファイルの削除** 確認ボックスで、**削除** を選択します。
   - question: >
       サポート
-    answer: "サブスクリプションのセットアップで問題が発生した場合は、下記のサポート資料を参照してください。\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)\n"
+    answer: "サブスクリプションの設定に問題がある場合は、次のサポート リソースを参照してください。\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n"
   - question: >
       関連項目
     answer: >-
